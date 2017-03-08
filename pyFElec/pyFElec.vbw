@@ -1,0 +1,15 @@
+Main = 67, 185, 950, 591, C, 22, 22, 783, 510, C
+mdlWSAA = 154, 154, 1037, 560, 
+mdlWSFE = 66, 66, 949, 472, 
+reusar_ticket_acceso = 88, 88, 971, 494, C
+Monolitico = 0, 0, 883, 406, C
+Utilidad = 154, 154, 1043, 555, 
+MDIMain = 154, 154, 1037, 560, , 132, 132, 1011, 570, C
+frmCertificados = 110, 110, 993, 516, , 176, 200, 1059, 606, C
+Global = 176, 176, 1055, 567, 
+ModuloWSAA = 0, 0, 889, 401, 
+ModuloWSFEv1 = 22, 22, 902, 428, 
+frmDatosFiscales = 198, 198, 1078, 604, Z, 176, 176, 1056, 582, C
+frmFactura = 88, 88, 999, 456, , 66, 66, 977, 434, C
+frmTablasWSFEv1 = 659, 183, 1539, 589, , -1, 183, 879, 589, C
+frmDirectorios = 66, 66, 946, 472, , 44, 44, 924, 450, C
